@@ -22,7 +22,7 @@ const Achievement: React.FC = () => {
               I have watched you ever since you reached there. I've seen you work really hard when you need to, trying to build connections, even when your heart got broken in unexpected ways. I saw you pushing yourself to read, knowing that you want a good score and you want to get better at everything you do. 
             </p>
             <p>
-              Well, I know there are times you don't wanna do it and you ask me to help you—which I am really more than happy to do. I feel happy as a man helping the woman I love so dearly. It's not just about the numbers; it's about seeing you conquer the things you thought were impossible.
+              Well, I know there are times you don't wanna do it and you ask me to help you, which I am really more than happy to do. I feel happy as a man helping the woman I love so dearly. It's not just about the numbers; it's about seeing you conquer the things you thought were impossible.
             </p>
             <p className="text-[#3d2b2b] opacity-90">
               A 3.83 is a triumph of will. Please, don't push yourself to the point of burnout. You are already everything I could ever admire.
