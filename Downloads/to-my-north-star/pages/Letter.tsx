@@ -25,9 +25,9 @@ const Letter: React.FC = () => {
           
           <article className="space-y-12 text-[#3d2b2b] text-xl md:text-2xl leading-[2.1] font-light italic text-justify">
             <p>
-              Well we might be very far away it don't mean that I love you less cause I do love you 
-              more than anything and I will try to show you in every way possible cause I don't 
-              wanna make you feel like you are not love in your lide.
+              Well we might be very far away it don't mean that I love you less cause I do love you
+              more than anything and I will try to show you in every way possible cause I don't
+              wanna make you feel like you are not love in your life.
             </p>
             
             <p>
@@ -38,17 +38,17 @@ const Letter: React.FC = () => {
             </p>
 
             <p>
-              Well it has almost been a year since we meet but I didn't knew I was in love until I 
-              was in Feb cause of everything I realized that I was in love you soo yes I really 
-              don't know when I fell in love with you there is a saying of a north star it is said 
-              that is one of the most brightest star which is as a light and is used to find desction 
+              Well it has almost been a year since we meet but I didn't knew I was in love until I
+              was in Feb cause of everything I realized that I was in love you soo yes I really
+              don't know when I fell in love with you there is a saying of a north star it is said
+              that is one of the most brightest star which is as a light and is used to find direction
               and you are the north star in my life my love.
             </p>
 
             <p>
-              And when you are always trying your best for you exams and everything I really wanted 
-              to help you with everything I had and I really tried my best for you. I don't know if 
-              that was enought or not cause it doesn't mean that I was not worth it every sec of it 
+              And when you are always trying your best for you exams and everything I really wanted
+              to help you with everything I had and I really tried my best for you. I don't know if
+              that was enough or not cause it doesn't mean that I was not worth it every sec of it
               was worth it my love.
             </p>
 
@@ -61,7 +61,7 @@ const Letter: React.FC = () => {
               <div className="flex justify-between items-end">
                 <div>
                   <p className="font-serif text-3xl text-[#3d2b2b]">Always Yours,</p>
-                  <span className="text-[#e8a0a0] text-[11px] uppercase tracking-[0.5em] block mt-6 font-black not-italic">DECEMBER 2025</span>
+                  <span className="text-[#e8a0a0] text-[11px] uppercase tracking-[0.5em] block mt-6 font-black not-italic">DECEMBER 2024</span>
                 </div>
                 <div className="opacity-10">
                   <svg width="80" height="80" viewBox="0 0 24 24" fill="#e8a0a0">
